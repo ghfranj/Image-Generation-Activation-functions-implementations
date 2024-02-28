@@ -84,12 +84,12 @@ class SoftPlus_imp(torch.nn.Module):
 ~~~
 
 
-##Results obtained:
+## Results obtained:
 ![image](https://github.com/ghfranj/Image-Generation-Activation-functions-implementations/assets/98123238/a674088e-2277-4b43-88f2-3970310a1583)
 
 
 
-###The additional activation function:
+## The additional activation function:
 ~~~
 class GELU_Tanh_edit_imp(torch.nn.Module):
   def __init__(self):
