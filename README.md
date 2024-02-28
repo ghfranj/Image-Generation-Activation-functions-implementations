@@ -83,8 +83,11 @@ class SoftPlus_imp(torch.nn.Module):
       return torch.log(1 + torch.exp(x))
 ~~~
 
+
 ##Results obtained:
 ![image](https://github.com/ghfranj/Image-Generation-Activation-functions-implementations/assets/98123238/a674088e-2277-4b43-88f2-3970310a1583)
+
+
 
 ###The additional activation function:
 ~~~
